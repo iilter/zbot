@@ -1,0 +1,212 @@
+
+hpython:S1192I"PDefine a constant instead of duplicating this literal "Timeout Error: " 7 times.(á¹õ 
+fpython:S1192ˆ	"MDefine a constant instead of duplicating this literal "UPDATE trade" 3 times.(õçÎ“
+ppython:S1192Ñ"RDefine a constant instead of duplicating this literal "%Y-%m-%d %H:%M:%S" 6 times.(Ÿ‡¶îùÿÿÿÿ
+jpython:S11929"MDefine a constant instead of duplicating this literal "Http Error: " 7 times.(Æ†¤´øÿÿÿÿ
+ppython:S1192A"SDefine a constant instead of duplicating this literal "Error Connecting: " 7 times.(êÁ–Ìıÿÿÿÿ
+npython:S116'"RRename this field "updateDate" to match the regular expression ^[_a-z][_a-z0-9]*$.(Û»‚Øıÿÿÿÿ
+ipython:S116%"RRename this field "exchangeId" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ä­ñÔ
+ipython:S116#"RRename this field "quoteAsset" to match the regular expression ^[_a-z][_a-z0-9]*$.(ˆ½ƒÕ
+gpython:S116 "PRename this field "dbCursor" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ôï–õ
+mpython:S116""QRename this field "baseAsset" to match the regular expression ^[_a-z][_a-z0-9]*$.(ö˜×¥üÿÿÿÿ
+hpython:S116("RRename this field "updateTime" to match the regular expression ^[_a-z][_a-z0-9]*$.(’éœ 
+qpython:S116$"URename this field "baseAssetName" to match the regular expression ^[_a-z][_a-z0-9]*$.(¬®üûÿÿÿÿ
+lpython:S117"URename this parameter "baseAsset" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùéÌ¢
+upython:S117"YRename this parameter "baseAssetName" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶¬…Ûÿÿÿÿÿ
+kpython:S117"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(µ’›Ó
+rpython:S117"VRename this parameter "exchangeId" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÑÿªüÿÿÿÿ
+rpython:S117"VRename this parameter "quoteAsset" to match the regular expression ^[_a-z][a-z0-9_]*$.(“É˜–üÿÿÿÿ
+rpython:S117"VRename this parameter "updateDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºÇ•Àıÿÿÿÿ
+mpython:S117"VRename this parameter "updateTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÎÈÉÁ
+upython:S117+"YRename this local variable "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.( Áíƒûÿÿÿÿ
+bpython:S100*"KRename method "getData" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ä™óŸ
+;python:S1252"Remove this commented out code.(ÉçÜÊşÿÿÿÿ
+gpython:S100T"KRename method "addData" to match the regular expression ^[a-z_][a-z0-9_]*$.(¢•µõşÿÿÿÿ
+mpython:S100f"QRename method "readAllSymbol" to match the regular expression ^[a-z_][a-z0-9_]*$.(§ƒ«Óüÿÿÿÿ
+rpython:S117t"VRename this parameter "exchangeId" to match the regular expression ^[_a-z][a-z0-9_]*$.(°ª‹·øÿÿÿÿ
+ppython:S100t"TRename method "readAllCoinAsset" to match the regular expression ^[a-z_][a-z0-9_]*$.(°ª‹·øÿÿÿÿ
+jpython:S107ˆ"MMethod "__init__" has 27 parameters, which is greater than the 13 authorized.(ÄÁšÃşÿÿÿÿ
+bpython:S100Á"KRename method "getData" to match the regular expression ^[a-z_][a-z0-9_]*$.(«€
+lpython:S117Ğ"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(áÁ´ç
+cpython:S100Ğ"KRename method "addData" to match the regular expression ^[a-z_][a-z0-9_]*$.(áÁ´ç
+lpython:S117ê"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆ•‘ã
+npython:S117ê"VRename this parameter "exchangeId" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆ•‘ã
+npython:S117ê"VRename this parameter "quoteAsset" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆ•‘ã
+cpython:S100ê"KRename method "readAll" to match the regular expression ^[a-z_][a-z0-9_]*$.(ˆ•‘ã
+qpython:S117ÿ"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥ÆŒÖşÿÿÿÿ
+spython:S117ÿ"VRename this parameter "exchangeId" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥ÆŒÖşÿÿÿÿ
+tpython:S117ÿ"WRename this parameter "marketGroup" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥ÆŒÖşÿÿÿÿ
+spython:S117ÿ"VRename this parameter "quoteAsset" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥ÆŒÖşÿÿÿÿ
+opython:S100ÿ"RRename method "readAllByGroup" to match the regular expression ^[a-z_][a-z0-9_]*$.(¥ÆŒÖşÿÿÿÿ
+kpython:S117”"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(«š„D
+mpython:S117”"VRename this parameter "exchangeId" to match the regular expression ^[_a-z][a-z0-9_]*$.(«š„D
+bpython:S100”"KRename method "readOne" to match the regular expression ^[a-z_][a-z0-9_]*$.(«š„D
+opython:S116¸"RRename this field "exchangeId" to match the regular expression ^[_a-z][_a-z0-9]*$.(³¿»øÿÿÿÿ
+opython:S116Á"RRename this field "cPairQuote" to match the regular expression ^[_a-z][_a-z0-9]*$.(²»¨µøÿÿÿÿ
+npython:S116À"QRename this field "cPairBase" to match the regular expression ^[_a-z][_a-z0-9]*$.(ŞáÎüÿÿÿÿ
+kpython:S116¿"SRename this field "cPairSymbol" to match the regular expression ^[_a-z][_a-z0-9]*$.(Õû«Å
+opython:S116»"RRename this field "aPairQuote" to match the regular expression ^[_a-z][_a-z0-9]*$.(‘••¹øÿÿÿÿ
+jpython:S116¾"RRename this field "bPairQuote" to match the regular expression ^[_a-z][_a-z0-9]*$.(‘Š´õ
+hpython:S116·"PRename this field "dbCursor" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ôï–õ
+ipython:S116½"QRename this field "bPairBase" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÄÍ«‚
+ppython:S116¼"SRename this field "bPairSymbol" to match the regular expression ^[_a-z][_a-z0-9]*$.(™…ÚÉşÿÿÿÿ
+ppython:S116¹"SRename this field "aPairSymbol" to match the regular expression ^[_a-z][_a-z0-9]*$.(Öæ§Êüÿÿÿÿ
+npython:S116º"QRename this field "aPairBase" to match the regular expression ^[_a-z][_a-z0-9]*$.(¾›ÿşÿÿÿÿ
+rpython:S117­"URename this parameter "aPairBase" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù—½ÿÿÿÿÿ
+mpython:S117®"VRename this parameter "aPairQuote" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹ñ|
+tpython:S117¬"WRename this parameter "aPairSymbol" to match the regular expression ^[_a-z][a-z0-9_]*$.(–„æ²úÿÿÿÿ
+mpython:S117°"URename this parameter "bPairBase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éæ·¬
+spython:S117±"VRename this parameter "bPairQuote" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğšæ¶ÿÿÿÿÿ
+opython:S117¯"WRename this parameter "bPairSymbol" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜¥òœ
+rpython:S117³"URename this parameter "cPairBase" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷öÒûÿÿÿÿ
+npython:S117´"VRename this parameter "cPairQuote" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ô”öã
+tpython:S117²"WRename this parameter "cPairSymbol" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëÖ°˜ùÿÿÿÿ
+lpython:S117ª"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(µ’›Ó
+spython:S117«"VRename this parameter "exchangeId" to match the regular expression ^[_a-z][a-z0-9_]*$.(œìÑíùÿÿÿÿ
+lpython:S100Ä"URename method "addTriangularPair" to match the regular expression ^[a-z_][a-z0-9_]*$.(çµó
+npython:S117Ö"VRename this parameter "exchangeId" to match the regular expression ^[_a-z][a-z0-9_]*$.( éØ
+mpython:S117Ö"URename this parameter "refSymbol" to match the regular expression ^[_a-z][a-z0-9_]*$.( éØ
+gpython:S100Ö"ORename method "readAllPair" to match the regular expression ^[a-z_][a-z0-9_]*$.( éØ
+hpython:S116õ"PRename this field "dbCursor" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ôï–õ
+lpython:S116ö"ORename this field "priceId" to match the regular expression ^[_a-z][_a-z0-9]*$.(°ç«Ãüÿÿÿÿ
+npython:S116÷"QRename this field "priceTime" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÌÆ“îıÿÿÿÿ
+ipython:S116ı"RRename this field "updateTime" to match the regular expression ^[_a-z][_a-z0-9]*$.(’éœ 
+opython:S116ü"RRename this field "updateDate" to match the regular expression ^[_a-z][_a-z0-9]*$.(Û»‚Øıÿÿÿÿ
+npython:S116ú"VRename this field "sourceExchange" to match the regular expression ^[_a-z][_a-z0-9]*$.(Üë¼İ
+lpython:S117ë"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(µ’›Ó
+kpython:S117ì"SRename this parameter "priceId" to match the regular expression ^[_a-z][a-z0-9_]*$.(ä»Û÷
+rpython:S117í"URename this parameter "priceTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤‹üÿøÿÿÿÿ
+rpython:S117ğ"ZRename this parameter "sourceExchange" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŞãÓ„
+npython:S117ò"VRename this parameter "updateDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(òÍµ¿
+npython:S117ó"VRename this parameter "updateTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(çÔıÆ
+vpython:S117€"YRename this local variable "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.( Áíƒûÿÿÿÿ
+cpython:S100ÿ"KRename method "getData" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ä™óŸ
+<python:S125ˆ"Remove this commented out code.(ÉçÜÊşÿÿÿÿ
+hpython:S100ª"KRename method "addData" to match the regular expression ^[a-z_][a-z0-9_]*$.(¢•µõşÿÿÿÿ
+kpython:S116Ğ"NRename this field "askQty" to match the regular expression ^[_a-z][_a-z0-9]*$.(æË›Êşÿÿÿÿ
+mpython:S116Í"PRename this field "bidPrice" to match the regular expression ^[_a-z][_a-z0-9]*$.(îˆËñùÿÿÿÿ
+hpython:S116Ê"PRename this field "dbCursor" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ôï–õ
+kpython:S116Î"NRename this field "bidQty" to match the regular expression ^[_a-z][_a-z0-9]*$.(ËĞí÷ùÿÿÿÿ
+hpython:S116Ï"PRename this field "askPrice" to match the regular expression ^[_a-z][_a-z0-9]*$.(¯Ş“ã
+qpython:S117Ç"TRename this parameter "askPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÛÆüÿÿÿÿ
+opython:S117È"RRename this parameter "askQty" to match the regular expression ^[_a-z][a-z0-9_]*$.(æéİüûÿÿÿÿ
+lpython:S117Å"TRename this parameter "bidPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(•‚ƒˆ
+jpython:S117Æ"RRename this parameter "bidQty" to match the regular expression ^[_a-z][a-z0-9_]*$.(íßÁ¼
+lpython:S117Â"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(µ’›Ó
+vpython:S117Ó"YRename this local variable "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.( Áíƒûÿÿÿÿ
+upython:S117Ø"XRename this local variable "itemLen" to match the regular expression ^[_a-z][a-z0-9_]*$.(é¢çÙøÿÿÿÿ
+cpython:S100Ò"KRename method "getData" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ä™óŸ
+<python:S125à"Remove this commented out code.(ÕÈøÁüÿÿÿÿ
+<python:S125å"Remove this commented out code.(ÉçÜÊşÿÿÿÿ
+vpython:S117ˆ"YRename this local variable "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.( Áíƒûÿÿÿÿ
+upython:S117"XRename this local variable "itemLen" to match the regular expression ^[_a-z][a-z0-9_]*$.(é¢çÙøÿÿÿÿ
+npython:S100‡"VRename method "getDataWithSession" to match the regular expression ^[a-z_][a-z0-9_]*$.(çÎ÷Î
+<python:S125•"Remove this commented out code.(ÕÈøÁüÿÿÿÿ
+<python:S125š"Remove this commented out code.(ÉçÜÊşÿÿÿÿ
+hpython:S116Ò"PRename this field "dbCursor" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ôï–õ
+lpython:S117¾"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(µ’›Ó
+jpython:S107½"MMethod "__init__" has 19 parameters, which is greater than the 13 authorized.(ÄÁšÃşÿÿÿÿ
+hpython:S100æ"KRename method "addData" to match the regular expression ^[a-z_][a-z0-9_]*$.(¢•µõşÿÿÿÿ
+wpython:S117ş"ZRename this parameter "candleInterval" to match the regular expression ^[_a-z][a-z0-9_]*$.(©·á÷øÿÿÿÿ
+vpython:S117ÿ"YRename this local variable "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.( Áíƒûÿÿÿÿ
+ppython:S117ş"SRename this parameter "endTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(©·á÷øÿÿÿÿ
+rpython:S117ş"URename this parameter "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(©·á÷øÿÿÿÿ
+hpython:S100ş"KRename method "getData" to match the regular expression ^[a-z_][a-z0-9_]*$.(©·á÷øÿÿÿÿ
+Jpython:S1481ÿ",Remove the unused local variable "dbCursor".( Áíƒûÿÿÿÿ
+<python:S125¦"Remove this commented out code.(ÉçÜÊşÿÿÿÿ
+wpython:S117È"ZRename this parameter "candleInterval" to match the regular expression ^[_a-z][a-z0-9_]*$.(ã—®÷úÿÿÿÿ
+vpython:S117É"YRename this local variable "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.( Áíƒûÿÿÿÿ
+ppython:S117È"SRename this parameter "endTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ã—®÷úÿÿÿÿ
+rpython:S117È"URename this parameter "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ã—®÷úÿÿÿÿ
+spython:S100È"VRename method "getDataWithSession" to match the regular expression ^[a-z_][a-z0-9_]*$.(ã—®÷úÿÿÿÿ
+Jpython:S1481É",Remove the unused local variable "dbCursor".( Áíƒûÿÿÿÿ
+<python:S125ğ"Remove this commented out code.(ÉçÜÊşÿÿÿÿ
+rpython:S117’"ZRename this parameter "candleInterval" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÎáÛ’
+mpython:S117’"URename this parameter "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÎáÛ’
+jpython:S100’"RRename method "fetchWithLimit" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÎáÛ’
+wpython:S117«"ZRename this parameter "candleInterval" to match the regular expression ^[_a-z][a-z0-9_]*$.(„¼æéùÿÿÿÿ
+rpython:S117«"URename this parameter "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(„¼æéùÿÿÿÿ
+qpython:S100«"TRename method "fetchWithLimitDf" to match the regular expression ^[a-z_][a-z0-9_]*$.(„¼æéùÿÿÿÿ
+wpython:S117Â"ZRename this parameter "candleInterval" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦Ï¨¦úÿÿÿÿ
+mpython:S100Â"PRename method "fetchMinDate" to match the regular expression ^[a-z_][a-z0-9_]*$.(¦Ï¨¦úÿÿÿÿ
+wpython:S117Ó"ZRename this parameter "candleInterval" to match the regular expression ^[_a-z][a-z0-9_]*$.(ËÕå¢ıÿÿÿÿ
+rpython:S100Ó"URename method "fetchMaxCloseTime" to match the regular expression ^[a-z_][a-z0-9_]*$.(ËÕå¢ıÿÿÿÿ
+wpython:S117ä"ZRename this parameter "candleInterval" to match the regular expression ^[_a-z][a-z0-9_]*$.(ø•¤şÿÿÿÿ
+kpython:S100ä"NRename method "fetchCount" to match the regular expression ^[a-z_][a-z0-9_]*$.(ø•¤şÿÿÿÿ
+rpython:S117õ"ZRename this parameter "candleInterval" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒí´
+mpython:S117õ"URename this parameter "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒí´
+ipython:S100õ"QRename method "fetchStartRow" to match the regular expression ^[a-z_][a-z0-9_]*$.(ƒí´
+wpython:S117Œ"ZRename this parameter "candleInterval" to match the regular expression ^[_a-z][a-z0-9_]*$.(„Ã•²ıÿÿÿÿ
+rpython:S117Œ"URename this parameter "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(„Ã•²ıÿÿÿÿ
+ipython:S100Œ"LRename method "fetchAll" to match the regular expression ^[a-z_][a-z0-9_]*$.(„Ã•²ıÿÿÿÿ
+lpython:S117¤"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾Ó¶·
+cpython:S100¤"KRename method "getData" to match the regular expression ^[a-z_][a-z0-9_]*$.(¾Ó¶·
+6python:S125°"Remove this commented out code.(‡¡f
+jpython:S107Ó"MMethod "__init__" has 29 parameters, which is greater than the 13 authorized.(ÄÁšÃşÿÿÿÿ
+qpython:S117"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ìˆ†ƒıÿÿÿÿ
+ipython:S100"LRename method "addTrade" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ìˆ†ƒıÿÿÿÿ
+<python:S125‘"Remove this commented out code.(œ‘ò’ùÿÿÿÿ
+lpython:S117ª"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(îô÷Œ
+mpython:S100ª"URename method "readProfitSummary" to match the regular expression ^[a-z_][a-z0-9_]*$.(îô÷Œ
+lpython:S117Ä"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú´…Æ
+epython:S100Ä"MRename method "readTrade" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ú´…Æ
+Lpython:S1172ß".Remove the unused function parameter "status".(ÁğÖ÷úÿÿÿÿ
+qpython:S117ß"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÁğÖ÷úÿÿÿÿ
+mpython:S100ß"PRename method "readTradeAll" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÁğÖ÷úÿÿÿÿ
+lpython:S117ù"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹ÒáŒ
+mpython:S117ù"URename this parameter "newStatus" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹ÒáŒ
+mpython:S117ù"URename this parameter "oldStatus" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹ÒáŒ
+gpython:S100ù"ORename method "updateTrade" to match the regular expression ^[a-z_][a-z0-9_]*$.(‹ÒáŒ
+lpython:S117‹	"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í’âñ
+spython:S117‹	"[Rename this parameter "stopChangeCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í’âñ
+mpython:S117‹	"URename this parameter "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í’âñ
+kpython:S100‹	"SRename method "updateStopPrice" to match the regular expression ^[a-z_][a-z0-9_]*$.(Í’âñ
+zpython:S117š	"]Rename this parameter "currentPeriodTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆéøÿÿÿÿ
+lpython:S117™	"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(ş¼ïù
+xpython:S117š	"[Rename this parameter "stopChangeCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆéøÿÿÿÿ
+mpython:S117™	"URename this parameter "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ş¼ïù
+{python:S100™	"cRename method "updateStopPriceAndCurrentPeriod" to match the regular expression ^[a-z_][a-z0-9_]*$.(ş¼ïù
+qpython:S117¨	"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦…¡Ÿıÿÿÿÿ
+upython:S117¨	"XRename this parameter "profitTarget" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦…¡Ÿıÿÿÿÿ
+spython:S100¨	"VRename method "updateProfitTarget" to match the regular expression ^[a-z_][a-z0-9_]*$.(¦…¡Ÿıÿÿÿÿ
+lpython:S117Æ	"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(áÁ´ç
+cpython:S100Æ	"KRename method "addData" to match the regular expression ^[a-z_][a-z0-9_]*$.(áÁ´ç
+jpython:S116‘
+"RRename this field "islemTutar" to match the regular expression ^[_a-z][_a-z0-9]*$.(½¡¹Ü
+npython:S117ò	"VRename this parameter "islemTutar" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡ñø
+jpython:S107Ø	"MMethod "__init__" has 31 parameters, which is greater than the 13 authorized.(ÄÁšÃşÿÿÿÿ
+lpython:S117˜
+"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(áÁ´ç
+cpython:S100˜
+"KRename method "addData" to match the regular expression ^[a-z_][a-z0-9_]*$.(áÁ´ç
+7python:S125™
+"Remove this commented out code.(¿ÚÊ“
+lpython:S117Æ
+"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(áÁ´ç
+cpython:S100Æ
+"KRename method "addData" to match the regular expression ^[a-z_][a-z0-9_]*$.(áÁ´ç
+qpython:S117Ù
+"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(š’¦÷ùÿÿÿÿ
+opython:S117Ù
+"RRename this parameter "testId" to match the regular expression ^[_a-z][a-z0-9_]*$.(š’¦÷ùÿÿÿÿ
+ipython:S100Ù
+"LRename method "fetchAll" to match the regular expression ^[a-z_][a-z0-9_]*$.(š’¦÷ùÿÿÿÿ
+lpython:S117ï
+"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾Í¥ß
+kpython:S117ï
+"SRename this parameter "lrLevel" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾Í¥ß
+lpython:S117ï
+"TRename this parameter "rsiLevel" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾Í¥ß
+jpython:S117ï
+"RRename this parameter "testId" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾Í¥ß
+ipython:S100ï
+"QRename method "fetchAllAlarm" to match the regular expression ^[a-z_][a-z0-9_]*$.(¾Í¥ß
+jpython:S107"MMethod "__init__" has 15 parameters, which is greater than the 13 authorized.(ÄÁšÃşÿÿÿÿ
+lpython:S117¯"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(áÁ´ç
+cpython:S100¯"KRename method "addData" to match the regular expression ^[a-z_][a-z0-9_]*$.(áÁ´ç
+/python:S1700Ë"Rename field "counter"(ß³ıÒ
+rpython:S117Î"ZRename this local variable "counterID" to match the regular expression ^[_a-z][a-z0-9_]*$.(Šáö
+tpython:S117Í"WRename this parameter "counterType" to match the regular expression ^[_a-z][a-z0-9_]*$.(…‡ï„şÿÿÿÿ
+qpython:S117Í"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(…‡ï„şÿÿÿÿ
+spython:S117Ö"[Rename this local variable "updateTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥Ñ
+kpython:S100Í"NRename method "getCounter" to match the regular expression ^[a-z_][a-z0-9_]*$.(…‡ï„şÿÿÿÿ

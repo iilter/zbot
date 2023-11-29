@@ -1,0 +1,18 @@
+
+upython:S117"YRename this local variable "dbConfig" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í¦¿§øÿÿÿÿ
+tpython:S117"]Rename this local variable "dbConnection" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿö·‹
+lpython:S1542	"ORename function "connectDB" to match the regular expression ^[a-z_][a-z0-9_]*$.(’©¡‹ûÿÿÿÿ
+gpython:S1542"PRename function "readConfig" to match the regular expression ^[a-z_][a-z0-9_]*$.(œÎÿT
+Tpython:S112!">Replace this generic exception class with a more specific one.(ë´¯
+Tpython:S112)">Replace this generic exception class with a more specific one.(×ÊÅ
+tpython:S117V"XRename this local variable "num1Cur" to match the regular expression ^[_a-z][a-z0-9_]*$.(®í“šÿÿÿÿÿ
+ppython:S117W"YRename this local variable "num1Prev" to match the regular expression ^[_a-z][a-z0-9_]*$.(œ“Ö
+tpython:S117X"XRename this local variable "num2Cur" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚ª—şÿÿÿÿ
+upython:S117Y"YRename this local variable "num2Prev" to match the regular expression ^[_a-z][a-z0-9_]*$.(…ŠÅ‘ıÿÿÿÿ
+tpython:S117_"XRename this local variable "num1Cur" to match the regular expression ^[_a-z][a-z0-9_]*$.(®í“šÿÿÿÿÿ
+ppython:S117`"YRename this local variable "num1Prev" to match the regular expression ^[_a-z][a-z0-9_]*$.(œ“Ö
+tpython:S117a"XRename this local variable "num2Cur" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚ª—şÿÿÿÿ
+upython:S117b"YRename this local variable "num2Prev" to match the regular expression ^[_a-z][a-z0-9_]*$.(…ŠÅ‘ıÿÿÿÿ
+jpython:S1854Ÿ"QRemove this assignment to local variable 'ex_traceback'; the value is never used.(‚ÕÖ‰
+ppython:S1542š"RRename function "logTraceback" to match the regular expression ^[a-z_][a-z0-9_]*$.(Üİóçøÿÿÿÿ
+lpython:S1542¥"NRename function "logError" to match the regular expression ^[a-z_][a-z0-9_]*$.( ÄÅøÿÿÿÿ

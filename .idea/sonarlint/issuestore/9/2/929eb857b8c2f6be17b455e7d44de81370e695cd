@@ -1,0 +1,80 @@
+
+Gpython:S14812"*Remove the unused local variable "sum_yy".(Ä±ššşÿÿÿÿ
+Gpython:S14818"*Remove the unused local variable "sum_yy".(µ£ë¸ùÿÿÿÿ
+wpython:S117A"[Rename this local variable "dataSeries" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥Ñ‹ıÿÿÿÿ
+rpython:S117c"VRename this local variable "fDown" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÏÎö…øÿÿÿÿ
+kpython:S117b"TRename this local variable "fUp" to match the regular expression ^[_a-z][a-z0-9_]*$.(ø´³ 
+xpython:S117q"aRename this local variable "percentBollinger" to match the regular expression ^[_a-z][a-z0-9_]*$.(çÅ¹é
+Tpython:S5754t"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+mpython:S117{"VRename this parameter "highPrices" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯šûÃ
+mpython:S117{"VRename this parameter "longPeriod" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯šûÃ
+lpython:S117{"URename this parameter "lowPrices" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯šûÃ
+ypython:S117|"]Rename this local variable "medianPrices" to match the regular expression ^[_a-z][a-z0-9_]*$.(ş—Ñ¹ûÿÿÿÿ
+npython:S117{"WRename this parameter "shortPeriod" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯šûÃ
+6python:S125}"Remove this commented out code.(Î¦É
+7python:S125‡"Remove this commented out code.(İ©…ğ
+vpython:S117®"^Rename this local variable "channelCenter" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÏŸ‘‰
+tpython:S117À"\Rename this local variable "channelDown" to match the regular expression ^[_a-z][a-z0-9_]*$.(³†™ç
+rpython:S117¿"ZRename this local variable "channelUp" to match the regular expression ^[_a-z][a-z0-9_]*$.(ãƒÌğ
+rpython:S117¥"ZRename this local variable "delLength" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢Æ¿à
+npython:S117±"WRename this local variable "stdDev" to match the regular expression ^[_a-z][a-z0-9_]*$.(è“Ì
+Mpython:S1172Ë"/Remove the unused function parameter "average".(ììáùÿÿÿÿ
+npython:S117Ù"VRename this local variable "stDev" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÆØÈÊ
+wpython:S117Ì"ZRename this local variable "stdDevAcc" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õ†Í¬ıÿÿÿÿ
+tpython:S117é"WRename this local variable "delLen" to match the regular expression ^[_a-z][a-z0-9_]*$.(š¯Ï¥úÿÿÿÿ
+spython:S117å"VRename this local variable "fDown" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÏÎö…øÿÿÿÿ
+upython:S117ã"XRename this local variable "fPrices" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡§ºúÿÿÿÿ
+lpython:S117ä"TRename this local variable "fUp" to match the regular expression ^[_a-z][a-z0-9_]*$.(ø´³ 
+wpython:S117ì"ZRename this local variable "percentLR" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú¬•üÿÿÿÿ
+rpython:S117ô"ZRename this local variable "delLength" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢Æ¿à
+rpython:S117ø"URename this local variable "sumX" to match the regular expression ^[_a-z][a-z0-9_]*$.(µ‹ö×şÿÿÿÿ
+spython:S117û"VRename this local variable "sumXY" to match the regular expression ^[_a-z][a-z0-9_]*$.(È‡ÃÓıÿÿÿÿ
+vpython:S117ú"YRename this local variable "sumX_sqr" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ò…«¶şÿÿÿÿ
+rpython:S117ù"URename this local variable "sumY" to match the regular expression ^[_a-z][a-z0-9_]*$.(õ¿¯’úÿÿÿÿ
+Hpython:S1481†"*Remove the unused local variable "slope2".(º¯•Ëùÿÿÿÿ
+Gpython:S1481ş")Remove the unused local variable "price".(ÓÎŠııÿÿÿÿ
+rpython:S117‘"ZRename this local variable "delLength" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢Æ¿à
+npython:S117Ÿ"WRename this parameter "closePrices" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿæ
+mpython:S117Ÿ"VRename this parameter "highPrices" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿæ
+lpython:S117Ÿ"URename this parameter "lowPrices" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿæ
+npython:S117¥"VRename this local variable "fastK" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ’¨–
+npython:S117¥"VRename this local variable "slowD" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ’¨–
+opython:S117¤"WRename this parameter "slowDPeriod" to match the regular expression ^[_a-z][a-z0-9_]*$.(–ÿ¯ş
+opython:S117¤"WRename this parameter "slowKPeriod" to match the regular expression ^[_a-z][a-z0-9_]*$.(–ÿ¯ş
+npython:S117¤"VRename this parameter "timePeriod" to match the regular expression ^[_a-z][a-z0-9_]*$.(–ÿ¯ş
+mpython:S117«"VRename this parameter "timePeriod" to match the regular expression ^[_a-z][a-z0-9_]*$.(•Úï
+spython:S117µ"VRename this local variable "fastK" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ş‡õ…øÿÿÿÿ
+spython:S117µ"VRename this local variable "slowD" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ş‡õ…øÿÿÿÿ
+tpython:S117°"WRename this parameter "slowDPeriod" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉòıÚúÿÿÿÿ
+tpython:S117°"WRename this parameter "slowKPeriod" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉòıÚúÿÿÿÿ
+spython:S117°"VRename this parameter "timePeriod" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉòıÚúÿÿÿÿ
+<python:S125î"Remove this commented out code.(ó½èªüÿÿÿÿ
+npython:S117ƒ"VRename this local variable "dvSMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(ç®›©
+spython:S117„"VRename this local variable "vlSMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢ê÷ùÿÿÿÿ
+npython:S117•"VRename this parameter "fastPeriod" to match the regular expression ^[_a-z][a-z0-9_]*$.(äü·¸
+qpython:S117–"YRename this local variable "macdHist" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢‡–
+spython:S117–"[Rename this local variable "macdSignal" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢‡–
+ppython:S117•"XRename this parameter "signalPeriod" to match the regular expression ^[_a-z][a-z0-9_]*$.(äü·¸
+npython:S117•"VRename this parameter "slowPeriod" to match the regular expression ^[_a-z][a-z0-9_]*$.(äü·¸
+tpython:S117ª"\Rename this local variable "morningStar" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ù‰Ùü
+Tpython:S1172Â";Remove the unused function parameter "valueAreaPercentage".(ûˆĞõ
+qpython:S117Á"TRename this parameter "barCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºì¹ˆûÿÿÿÿ
+wpython:S117å"ZRename this local variable "barHeight" to match the regular expression ^[_a-z][a-z0-9_]*$.(êã×Ûûÿÿÿÿ
+opython:S117é"WRename this local variable "buyVol" to match the regular expression ^[_a-z][a-z0-9_]*$.(“ˆ©
+wpython:S117Ê"ZRename this local variable "dataClose" to match the regular expression ^[_a-z][a-z0-9_]*$.(”‹–Şûÿÿÿÿ
+qpython:S117È"YRename this local variable "dataHigh" to match the regular expression ^[_a-z][a-z0-9_]*$.(³¢œè
+upython:S117É"XRename this local variable "dataLow" to match the regular expression ^[_a-z][a-z0-9_]*$.(””ëüÿÿÿÿ
+qpython:S117Ç"YRename this local variable "dataOpen" to match the regular expression ^[_a-z][a-z0-9_]*$.(Û±Àù
+xpython:S117Ë"[Rename this local variable "dataVolume" to match the regular expression ^[_a-z][a-z0-9_]*$.(·ŸÆŸüÿÿÿÿ
+wpython:S117â"ZRename this local variable "histArray" to match the regular expression ^[_a-z][a-z0-9_]*$.(´®ıÿÿÿÿ
+wpython:S117Á"ZRename this parameter "histogramCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºì¹ˆûÿÿÿÿ
+tpython:S117Ã"\Rename this local variable "lengthClose" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ùô ‡
+ppython:S117ê"XRename this local variable "sellVol" to match the regular expression ^[_a-z][a-z0-9_]*$.(òâúË
+lpython:S117Â"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûˆĞõ
+wpython:S117Â"_Rename this parameter "valueAreaPercentage" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûˆĞõ
+Epython:S1481Ç",Remove the unused local variable "dataOpen".(Û±Àù
+7python:S125Í"Remove this commented out code.(çËŠö
+7python:S125Ó"Remove this commented out code.(ùø‡®
+7python:S125×"Remove this commented out code.(¦ÕÇå
+Cpython:S1481â"%Remove the unused local variable "i".(´®ıÿÿÿÿ
+Ipython:S5806ï"+Rename this variable; it shadows a builtin.(«ûïÕşÿÿÿÿ

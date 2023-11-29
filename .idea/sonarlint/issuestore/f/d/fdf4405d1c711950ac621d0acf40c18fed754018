@@ -1,0 +1,353 @@
+
+ppython:S1192æ"RDefine a constant instead of duplicating this literal "%Y-%m-%d %H:%M:%S" 4 times.(İˆ–àøÿÿÿÿ
+ipython:S1192¦"KDefine a constant instead of duplicating this literal "config.ini" 3 times.(÷àĞüÿÿÿÿ
+Hpython:S1066Ë"/Merge this if statement with the enclosing one.(•÷éÇ
+Mpython:S1066Ñ"/Merge this if statement with the enclosing one.(¤ª¥Ôıÿÿÿÿ
+Mpython:S1066×"/Merge this if statement with the enclosing one.(½Ìí­üÿÿÿÿ
+Hpython:S1066İ"/Merge this if statement with the enclosing one.(üÔçÀ
+Mpython:S1066’"/Merge this if statement with the enclosing one.(Œú£ùÿÿÿÿÿ
+Mpython:S1066–"/Merge this if statement with the enclosing one.(ò¤Îõşÿÿÿÿ
+Mpython:S1066©"/Merge this if statement with the enclosing one.( õ€Øùÿÿÿÿ
+ppython:S117k"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆ®×­şÿÿÿÿ
+npython:S1542k"QRename function "readSummary" to match the regular expression ^[a-z_][a-z0-9_]*$.(ˆ®×­şÿÿÿÿ
+ppython:S117q"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î”Ğåùÿÿÿÿ
+lpython:S117…"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(îÛù‰
+vpython:S117‘"YRename this local variable "askPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(›ı¸Éûÿÿÿÿ
+tpython:S117’"WRename this local variable "askQty" to match the regular expression ^[_a-z][a-z0-9_]*$.(æéİüûÿÿÿÿ
+qpython:S117"YRename this local variable "bidPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÆüÙ‘
+tpython:S117"WRename this local variable "bidQty" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÄŠáÅşÿÿÿÿ
+rpython:S117›"ZRename this local variable "tickerRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(…û¥û
+spython:S117–"[Rename this local variable "tickerRows" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ŒÓ
+zpython:S117¼"]Rename this local variable "atrIndicator" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôí¼‹úÿÿÿÿ
+npython:S117¤"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(êÏô
+xpython:S117¦"[Rename this local variable "stopHeight" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùçÛüÿÿÿÿ
+qpython:S117¥"ZRename this local variable "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(Áïï
+lpython:S117¤"TRename this parameter "stopType" to match the regular expression ^[_a-z][a-z0-9_]*$.(êÏô
+lpython:S117¤"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(êÏô
+opython:S117Ï"WRename this parameter "buyingPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ó¯ùŠ
+ppython:S117Ï"XRename this parameter "currentPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ó¯ùŠ
+ppython:S117Ö"XRename this local variable "newStop" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥ôæƒ
+ppython:S117Ï"XRename this parameter "profitTarget" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ó¯ùŠ
+}python:S117Ò"`Rename this local variable "stopProfitLevel" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ù…Ğüÿÿÿÿ
+qpython:S117Ğ"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(…˜ô÷üÿÿÿÿ
+mpython:S117Ü"URename this parameter "buyAmount" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹¿ö©
+qpython:S117İ"YRename this parameter "buyCommission" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò¿ŸÍ
+jpython:S117Ü"RRename this parameter "buyLot" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹¿ö©
+kpython:S117Ü"SRename this parameter "buySell" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹¿ö©
+upython:S117Ş"]Rename this parameter "currentPeriodTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(«åû
+lpython:S117Ü"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹¿ö©
+npython:S117Ş"VRename this parameter "periodTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(«åû
+opython:S117ß"XRename this parameter "profitTarget" to match the regular expression ^[_a-z][a-z0-9_]*$.(×çü1
+npython:S117Ş"VRename this parameter "sellTarget" to match the regular expression ^[_a-z][a-z0-9_]*$.(«åû
+mpython:S117ß"VRename this parameter "signalName" to match the regular expression ^[_a-z][a-z0-9_]*$.(×çü1
+npython:S117İ"VRename this parameter "stopHeight" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò¿ŸÍ
+mpython:S117İ"URename this parameter "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò¿ŸÍ
+lpython:S117İ"TRename this parameter "stopType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò¿ŸÍ
+qpython:S107Ü"YFunction "insert_trade_table" has 18 parameters, which is greater than the 13 authorized.(‹¿ö©
+ppython:S117ü"SRename this parameter "buySell" to match the regular expression ^[_a-z][a-z0-9_]*$.(õ¨³¯ÿÿÿÿÿ
+qpython:S117ü"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(õ¨³¯ÿÿÿÿÿ
+mpython:S117ı"URename this parameter "newStatus" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëŠğÖ
+mpython:S117ı"URename this parameter "oldStatus" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëŠğÖ
+spython:S117ü"VRename this parameter "sellAmount" to match the regular expression ^[_a-z][a-z0-9_]*$.(õ¨³¯ÿÿÿÿÿ
+rpython:S117ı"ZRename this parameter "sellCommission" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëŠğÖ
+ppython:S117ü"SRename this parameter "sellLot" to match the regular expression ^[_a-z][a-z0-9_]*$.(õ¨³¯ÿÿÿÿÿ
+npython:S117ı"VRename this parameter "signalName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëŠğÖ
+lpython:S117"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(œ†Ù
+spython:S117"[Rename this parameter "stopChangeCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(œ†Ù
+mpython:S117"URename this parameter "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(œ†Ù
+upython:S117—"]Rename this parameter "currentPeriodTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿş —
+lpython:S117–"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(³É¬Ö
+spython:S117—"[Rename this parameter "stopChangeCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿş —
+mpython:S117–"URename this parameter "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(³É¬Ö
+qpython:S117"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(³Õü‰ûÿÿÿÿ
+upython:S117"XRename this parameter "profitTarget" to match the regular expression ^[_a-z][a-z0-9_]*$.(³Õü‰ûÿÿÿÿ
+ppython:S117£"XRename this parameter "currentPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ó¼Ì§
+mpython:S117£"URename this parameter "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ó¼Ì§
+tpython:S117ª"WRename this parameter "buyingPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ë‘óŸùÿÿÿÿ
+spython:S117ª"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(ë‘óŸùÿÿÿÿ
+upython:S117ª"XRename this parameter "currentPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ë‘óŸùÿÿÿÿ
+upython:S117ª"XRename this parameter "targetProfit" to match the regular expression ^[_a-z][a-z0-9_]*$.(ë‘óŸùÿÿÿÿ
+rpython:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ë‘óŸùÿÿÿÿ
+<python:S125µ"Remove this commented out code.(õğ÷Àÿÿÿÿÿ
+<python:S125»"Remove this commented out code.(ó²£øÿÿÿÿ
+7python:S125Ä"Remove this commented out code.(ĞÜ¿
+opython:S117é"WRename this parameter "buyingPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤Æúœ
+ppython:S117é"XRename this parameter "currentPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤Æúœ
+wpython:S117ë"`Rename this local variable "newProfitTarget" to match the regular expression ^[_a-z][a-z0-9_]*$.(£•¯:
+ppython:S117é"XRename this parameter "profitTarget" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤Æúœ
+python:S117ê"bRename this local variable "profitTargetLevel" to match the regular expression ^[_a-z][a-z0-9_]*$.(êÃ©˜úÿÿÿÿ
+npython:S117õ"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(™ñÓâ
+vpython:S117€"YRename this local variable "curClose" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØÑ¶²ûÿÿÿÿ
+vpython:S117ü"YRename this local variable "curColor" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø•´İûÿÿÿÿ
+upython:S117‚"XRename this local variable "curHigh" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÛÇò¶ûÿÿÿÿ
+tpython:S117"WRename this local variable "curLow" to match the regular expression ^[_a-z][a-z0-9_]*$.(üÜÔşùÿÿÿÿ
+ppython:S117„"XRename this local variable "fastHMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÛÛ¯
+xpython:S117ı"[Rename this local variable "prev1Color" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÚöïËùÿÿÿÿ
+xpython:S117ş"[Rename this local variable "prev2Color" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î»ßˆûÿÿÿÿ
+lpython:S117õ"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(™ñÓâ
+Lpython:S1481ş".Remove the unused local variable "prev2Color".(Î»ßˆûÿÿÿÿ
+Jpython:S1481€",Remove the unused local variable "curClose".(ØÑ¶²ûÿÿÿÿ
+Lpython:S1481ı".Remove the unused local variable "prev1Color".(ÚöïËùÿÿÿÿ
+mpython:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(™ñÓâ
+npython:S117©"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(­¡á 
+ppython:S117®"XRename this local variable "fastHMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(…‚‡±
+ypython:S117°"\Rename this local variable "isCrossOver" to match the regular expression ^[_a-z][a-z0-9_]*$.(…¶¬®ùÿÿÿÿ
+upython:S117­"XRename this local variable "slowHMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(½Ñ’„ûÿÿÿÿ
+upython:S117¼"XRename this local variable "stopHMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(óØüøÿÿÿÿ
+lpython:S117©"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(­¡á 
+7python:S125¸"Remove this commented out code.(½âŒß
+spython:S117Â"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(±ßæüÿÿÿÿ
+ppython:S117Ç"XRename this local variable "fastHMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(…‚‡±
+xpython:S117É"[Rename this local variable "isDeepTurn" to match the regular expression ^[_a-z][a-z0-9_]*$.(îºÒ˜ıÿÿÿÿ
+opython:S117Î"WRename this local variable "rsiSMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ä¡‡
+upython:S117Æ"XRename this local variable "slowHMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(½Ñ’„ûÿÿÿÿ
+wpython:S117Õ"ZRename this local variable "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ª¬„±øÿÿÿÿ
+qpython:S117Â"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(±ßæüÿÿÿÿ
+Ipython:S1481Æ"+Remove the unused local variable "slowHMA".(½Ñ’„ûÿÿÿÿ
+6python:S125Ö"Remove this commented out code.(»Çòt
+7python:S125Û"Remove this commented out code.(½âŒß
+spython:S117å"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿôúôûÿÿÿÿ
+vpython:S117ó"YRename this local variable "curIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(ãèÛœÿÿÿÿÿ
+ppython:S117ê"XRename this local variable "fastHMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(…‚‡±
+tpython:S117î"\Rename this local variable "isCrossOver" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆ†ƒ—
+xpython:S117ò"[Rename this local variable "isDeepTurn" to match the regular expression ^[_a-z][a-z0-9_]*$.(»ó–ôÿÿÿÿÿ
+rpython:S117ö"ZRename this local variable "prevIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıı®©
+opython:S117ì"WRename this local variable "rsiSMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(Öª¦
+upython:S117é"XRename this local variable "slowHMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(½Ñ’„ûÿÿÿÿ
+rpython:S117ş"ZRename this local variable "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(æ²£ş
+qpython:S117å"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿôúôûÿÿÿÿ
+Ipython:S1481é"+Remove the unused local variable "slowHMA".(½Ñ’„ûÿÿÿÿ
+Ipython:S1481"+Remove the unused local variable "message".(´èşóıÿÿÿÿ
+<python:S125‚"Remove this commented out code.(Ó²Ùıÿÿÿÿ
+spython:S117‹"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰å‡ªÿÿÿÿÿ
+ppython:S117™"XRename this local variable "fastHMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(…‚‡±
+ppython:S117›"XRename this local variable "fastRSI" to match the regular expression ^[_a-z][a-z0-9_]*$.(«ºö»
+|python:S117Ÿ"_Rename this local variable "isFastDeepTurn" to match the regular expression ^[_a-z][a-z0-9_]*$.(à¶Úòüÿÿÿÿ
+xpython:S117 "[Rename this local variable "isSMASlope" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ­Ñ†øÿÿÿÿ
+upython:S117˜"XRename this local variable "slowHMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(½Ñ’„ûÿÿÿÿ
+ppython:S117œ"XRename this local variable "slowRSI" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ä„´¦
+spython:S117"[Rename this local variable "slowRsiSMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(œœÓÃ
+rpython:S117­"ZRename this local variable "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(È‡›¾
+qpython:S117‹"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰å‡ªÿÿÿÿÿ
+<python:S125¯"Remove this commented out code.(Ê°ˆúÿÿÿÿ
+^python:S3457²"EAdd replacement fields or use a normal string instead of an f-string.(ØôØ
+npython:S117¹"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(šÙçÊ
+ppython:S117Ç"XRename this local variable "fastHMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(…‚‡±
+ppython:S117É"XRename this local variable "fastRSI" to match the regular expression ^[_a-z][a-z0-9_]*$.(«ºö»
+|python:S117Í"_Rename this local variable "isFastDeepTurn" to match the regular expression ^[_a-z][a-z0-9_]*$.(à¶Úòüÿÿÿÿ
+xpython:S117Î"[Rename this local variable "isSMASlope" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ğ­Ñ†øÿÿÿÿ
+upython:S117Æ"XRename this local variable "slowHMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(½Ñ’„ûÿÿÿÿ
+ppython:S117Ê"XRename this local variable "slowRSI" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ä„´¦
+spython:S117Ë"[Rename this local variable "slowRsiSMA" to match the regular expression ^[_a-z][a-z0-9_]*$.(œœÓÃ
+rpython:S117Û"ZRename this local variable "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(È‡›¾
+lpython:S117¹"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(šÙçÊ
+Lpython:S1481Î".Remove the unused local variable "isSMASlope".(Ğ­Ñ†øÿÿÿÿ
+7python:S125İ"Remove this commented out code.(…Ü½Ä
+cpython:S3457à"EAdd replacement fields or use a normal string instead of an f-string.(áÔÚ¹úÿÿÿÿ
+npython:S117ç"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(úÈÏğ
+tpython:S117ñ"WRename this local variable "hmaRSI" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡ÔÊ›şÿÿÿÿ
+spython:S117ó"[Rename this local variable "isDeepTurn" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú¹
+rpython:S117ø"ZRename this local variable "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(»¯å
+lpython:S117ç"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(úÈÏğ
+spython:S117‚"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìÕ«¦úÿÿÿÿ
+qpython:S117Œ"YRename this local variable "fastMacd" to match the regular expression ^[_a-z][a-z0-9_]*$.(«ûÍ¥
+qpython:S117Œ"YRename this local variable "histMacd" to match the regular expression ^[_a-z][a-z0-9_]*$.(«ûÍ¥
+tpython:S117’"WRename this local variable "hmaRSI" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡ÔÊ›şÿÿÿÿ
+}python:S117"`Rename this local variable "isCrossOverMACD" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÈÈ†şÿÿÿÿ
+{python:S117“"^Rename this local variable "isDeepTurnRSI" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù™âùÿÿÿÿ
+zpython:S117"]Rename this local variable "isHistMACDUp" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙŠ‘Àşÿÿÿÿ
+upython:S117˜"XRename this local variable "isPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùæİ€úÿÿÿÿ
+tpython:S117–"\Rename this local variable "isSarTurnUp" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ìİš¢
+qpython:S117Œ"YRename this local variable "slowMacd" to match the regular expression ^[_a-z][a-z0-9_]*$.(«ûÍ¥
+wpython:S117"ZRename this local variable "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(°²àéûÿÿÿÿ
+qpython:S117‚"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìÕ«¦úÿÿÿÿ
+@python:S1481›"'Remove the unused local variable "atr".(Ù±¿©
+npython:S117ª"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(°¶Í…
+qpython:S117¹"YRename this local variable "fastMacd" to match the regular expression ^[_a-z][a-z0-9_]*$.(«ûÍ¥
+qpython:S117¹"YRename this local variable "histMacd" to match the regular expression ^[_a-z][a-z0-9_]*$.(«ûÍ¥
+tpython:S117·"WRename this local variable "hmaRSI" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡ÔÊ›şÿÿÿÿ
+ppython:S117Ê"XRename this local variable "hmaSlow" to match the regular expression ^[_a-z][a-z0-9_]*$.(ªÚÉ¶
+xpython:S117½"[Rename this local variable "isDeepTurn" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ë÷±óùÿÿÿÿ
+tpython:S117Ë"\Rename this local variable "isHMASlowUp" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘ê¯
+zpython:S117»"]Rename this local variable "isHistMACDUp" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙŠ‘Àşÿÿÿÿ
+ppython:S117¾"XRename this local variable "isSarUp" to match the regular expression ^[_a-z][a-z0-9_]*$.(²Î¤æ
+ppython:S117µ"XRename this local variable "sarDiff" to match the regular expression ^[_a-z][a-z0-9_]*$.(©²Ç
+qpython:S117¹"YRename this local variable "slowMacd" to match the regular expression ^[_a-z][a-z0-9_]*$.(«ûÍ¥
+wpython:S117Í"ZRename this local variable "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(°²àéûÿÿÿÿ
+lpython:S117ª"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(°¶Í…
+Dpython:S1481µ"+Remove the unused local variable "sarDiff".(©²Ç
+<python:S125¿"Remove this commented out code.(Ãø»şÿÿÿÿ
+7python:S125Ä"Remove this commented out code.(øªôù
+spython:S117Ø"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(…›ÆÇûÿÿÿÿ
+tpython:S117ç"WRename this local variable "hmaRSI" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡ÔÊ›şÿÿÿÿ
+opython:S117é"XRename this local variable "hmaSlow" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œ¥é4
+xpython:S117ì"[Rename this local variable "isDeepTurn" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ë÷±óùÿÿÿÿ
+upython:S117ï"XRename this local variable "isPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùæİ€úÿÿÿÿ
+ppython:S117í"XRename this local variable "isSarUp" to match the regular expression ^[_a-z][a-z0-9_]*$.(²Î¤æ
+vpython:S117ê"YRename this local variable "isSlowUp" to match the regular expression ^[_a-z][a-z0-9_]*$.(Íé°Ûşÿÿÿÿ
+ppython:S117å"XRename this local variable "sarDiff" to match the regular expression ^[_a-z][a-z0-9_]*$.(©²Ç
+rpython:S117ö"ZRename this local variable "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(»¯å
+qpython:S117Ø"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(…›ÆÇûÿÿÿÿ
+Dpython:S1481å"+Remove the unused local variable "sarDiff".(©²Ç
+7python:S125ó"Remove this commented out code.(øªôù
+npython:S117„"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ù³»
+qpython:S117—"YRename this local variable "fastMacd" to match the regular expression ^[_a-z][a-z0-9_]*$.(«ûÍ¥
+qpython:S117—"YRename this local variable "histMacd" to match the regular expression ^[_a-z][a-z0-9_]*$.(«ûÍ¥
+zpython:S117™"]Rename this local variable "isHistMACDUp" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙŠ‘Àşÿÿÿÿ
+upython:S117•"]Rename this local variable "isHmaSlopeUp" to match the regular expression ^[_a-z][a-z0-9_]*$.(®³µÃ
+upython:S117›"XRename this local variable "isPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùæİ€úÿÿÿÿ
+tpython:S117’"\Rename this local variable "isSarTurnUp" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ìİš¢
+ppython:S117‘"XRename this local variable "sarDiff" to match the regular expression ^[_a-z][a-z0-9_]*$.(©²Ç
+qpython:S117—"YRename this local variable "slowMacd" to match the regular expression ^[_a-z][a-z0-9_]*$.(«ûÍ¥
+rpython:S117¢"ZRename this local variable "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(»¯å
+lpython:S117„"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ù³»
+Dpython:S1481‘"+Remove the unused local variable "sarDiff".(©²Ç
+7python:S125Ÿ"Remove this commented out code.(øªôù
+spython:S117¬"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÎÁùÿÿÿÿ
+vpython:S117¯"_Rename this local variable "curCandleColor" to match the regular expression ^[_a-z][a-z0-9_]*$.(´Ä¿o
+zpython:S117±"]Rename this local variable "isPrevOnLine" to match the regular expression ^[_a-z][a-z0-9_]*$.(çÁíñúÿÿÿÿ
+upython:S117¸"XRename this local variable "isPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùæİ€úÿÿÿÿ
+ppython:S117³"XRename this local variable "isRatio" to match the regular expression ^[_a-z][a-z0-9_]*$.(ı”§½
+}python:S117°"`Rename this local variable "prevCandleColor" to match the regular expression ^[_a-z][a-z0-9_]*$.(š ĞØûÿÿÿÿ
+rpython:S117¾"ZRename this local variable "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(»¯å
+qpython:S117¬"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÎÁùÿÿÿÿ
+npython:S117É"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò áê
+upython:S117Í"XRename this local variable "hmaFast" to match the regular expression ^[_a-z][a-z0-9_]*$.(Äß®úÿÿÿÿ
+rpython:S117Î"[Rename this local variable "hmaFastRSI" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆÄî
+opython:S117Ê"XRename this local variable "hmaSlow" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œ¥é4
+vpython:S117Ï"^Rename this local variable "isHmaDeepTurn" to match the regular expression ^[_a-z][a-z0-9_]*$.(œÊ»¾
+zpython:S117Ë"]Rename this local variable "isHmaSlopeUp" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñïòıÿÿÿÿ
+upython:S117Ñ"XRename this local variable "isPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùæİ€úÿÿÿÿ
+rpython:S117Ö"ZRename this local variable "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(»¯å
+lpython:S117É"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò áê
+npython:S117æ"VRename this parameter "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÀÒöû
+lpython:S117æ"TRename this parameter "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÀÒöû
+qpython:S117…"YRename this local variable "stopLine" to match the regular expression ^[_a-z][a-z0-9_]*$.(œŠ¤
+lpython:S117æ"TRename this parameter "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÀÒöû
+7python:S125ç"Remove this commented out code.(‹Î¸
+7python:S125í"Remove this commented out code.(òÃÇ½
+<python:S125‰"Remove this commented out code.(Ëù’úÿÿÿÿ
+7python:S125•"Remove this commented out code.(óÉ†×
+mpython:S1854¯"ORemove this assignment to local variable 'symbolRows'; the value is never used.(Ö¡€ÿÿÿÿÿ
+qpython:S117à"YRename this local variable "askPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÖûò
+opython:S117à"WRename this local variable "askQty" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÖûò
+qpython:S117à"YRename this local variable "bidPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÖûò
+opython:S117à"WRename this local variable "bidQty" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÖûò
+{python:S117¦"^Rename this local variable "binanceConfig" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷àĞüÿÿÿÿ
+wpython:S117…"ZRename this local variable "buyAmount" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŠÚışÿÿÿÿ
+vpython:S117†"^Rename this local variable "buyCommission" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ì¸¤
+tpython:S117ƒ"WRename this local variable "buyLot" to match the regular expression ^[_a-z][a-z0-9_]*$.(øÇ—’üÿÿÿÿ
+wpython:S117Ú"ZRename this local variable "buySignal" to match the regular expression ^[_a-z][a-z0-9_]*$.(ª»àüÿÿÿÿ
+xpython:S117À"[Rename this local variable "candleBars" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ãªş˜ÿÿÿÿÿ
+spython:S117¶"[Rename this local variable "coinSymbol" to match the regular expression ^[_a-z][a-z0-9_]*$.(åªÔµ
+xpython:S117Õ"[Rename this local variable "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºú‰ıÿÿÿÿ
+npython:S117 "WRename this parameter "connSession" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÃÙ›8
+qpython:S117¤"YRename this local variable "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÓŸÆÂ
+spython:S117»"[Rename this local variable "isPosition" to match the regular expression ^[_a-z][a-z0-9_]*$.(³õğ×
+xpython:S117ë"[Rename this local variable "periodTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(»„—·şÿÿÿÿ
+ypython:S117ê"aRename this local variable "periodTimestamps" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÆÕ…®
+tpython:S117»"\Rename this local variable "positionRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(³õğ×
+xpython:S117ˆ"`Rename this local variable "riskRewardRatio" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñèÒÍ
+qpython:S117¸"YRename this local variable "stepSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûå·”
+vpython:S117Ú"YRename this local variable "stopLine" to match the regular expression ^[_a-z][a-z0-9_]*$.(ª»àüÿÿÿÿ
+rpython:S117ı"ZRename this local variable "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ş«¼â
+wpython:S117´"ZRename this local variable "symbolRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(”é¬ºşÿÿÿÿ
+xpython:S117¯"[Rename this local variable "symbolRows" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ö¡€ÿÿÿÿÿ
+zpython:S117Œ"]Rename this local variable "targetProfit" to match the regular expression ^[_a-z][a-z0-9_]*$.(àëéşÿÿÿÿ
+xpython:S117™"`Rename this local variable "telegramMessage" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒ¦îÄ
+vpython:S117·"YRename this local variable "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(İ‡‡íÿÿÿÿÿ
+upython:S117à"]Rename this local variable "tickerStatus" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÖûò
+Jpython:S1481©"2Remove the unused local variable "url_order_book".(Ñ©Ò
+Lpython:S1481®".Remove the unused local variable "start_time".(Õèî×ıÿÿÿÿ
+lpython:S3776 "TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÃÙ›8
+cpython:S3457¡"EAdd replacement fields or use a normal string instead of an f-string.(ïÁß®ùÿÿÿÿ
+<python:S125î"Remove this commented out code.(†şö¶üÿÿÿÿ
+<python:S125û"Remove this commented out code.(½ùä‡ùÿÿÿÿ
+cpython:S3457—"EAdd replacement fields or use a normal string instead of an f-string.(À¤ºÿÿÿÿÿ
+<python:S125 "Remove this commented out code.(ğ—Ùıÿÿÿÿ
+8python:S3626Ÿ	"Remove this redundant continue.(À–¬ˆ
+qpython:S117„	"YRename this local variable "askPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÖûò
+opython:S117„	"WRename this local variable "askQty" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÖûò
+qpython:S117„	"YRename this local variable "bidPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÖûò
+opython:S117„	"WRename this local variable "bidQty" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÖûò
+{python:S117­"^Rename this local variable "binanceConfig" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷àĞüÿÿÿÿ
+wpython:S117¾"ZRename this local variable "buyAmount" to match the regular expression ^[_a-z][a-z0-9_]*$.(«ìê´ıÿÿÿÿ
+vpython:S117¿"^Rename this local variable "buyCommission" to match the regular expression ^[_a-z][a-z0-9_]*$.(º½§¬
+tpython:S117À"WRename this local variable "buyLot" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹¥¥ûÿÿÿÿ
+{python:S117¼"^Rename this local variable "buyPeriodTime" to match the regular expression ^[_a-z][a-z0-9_]*$.( ÂÂÿÿÿÿÿ
+qpython:S117½"YRename this local variable "buyPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(çééğ
+qpython:S117•	"YRename this local variable "buyTotal" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÄŸÆ¸
+xpython:S117İ"[Rename this local variable "candleBars" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÛÃ÷¦ıÿÿÿÿ
+ypython:S117ò"aRename this local variable "candlePeriodTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(åİÑ¨
+xpython:S117º"[Rename this local variable "coinSymbol" to match the regular expression ^[_a-z][a-z0-9_]*$.(ô¹ßÏÿÿÿÿÿ
+xpython:S117ô"[Rename this local variable "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºú‰ıÿÿÿÿ
+opython:S117§"WRename this parameter "connSession" to match the regular expression ^[_a-z][a-z0-9_]*$.(½À¹Ö
+python:S117»"bRename this local variable "currentPeriodTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ø¹»àşÿÿÿÿ
+vpython:S117Ã"^Rename this local variable "currentStatus" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëÁø¿
+qpython:S117«"YRename this local variable "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÓŸÆÂ
+qpython:S117ÿ"YRename this local variable "isProfit" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹¬±­
+tpython:S117ş"WRename this local variable "isStop" to match the regular expression ^[_a-z][a-z0-9_]*$.(í¢¥Êúÿÿÿÿ
+opython:S117Ô"WRename this local variable "minLot" to match the regular expression ^[_a-z][a-z0-9_]*$.(£óº
+tpython:S117Ó"\Rename this local variable "minNotional" to match the regular expression ^[_a-z][a-z0-9_]*$.(î˜—
+ypython:S117ñ"aRename this local variable "periodTimestamps" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÆÕ…®
+xpython:S117´"`Rename this local variable "positionRecords" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿø°
+upython:S117Å"]Rename this local variable "profitTarget" to match the regular expression ^[_a-z][a-z0-9_]*$.(ê‚Ö™
+spython:S117‹	"[Rename this local variable "sellAmount" to match the regular expression ^[_a-z][a-z0-9_]*$.(äéÇ
+|python:S117	"_Rename this local variable "sellCommission" to match the regular expression ^[_a-z][a-z0-9_]*$.(­–äèùÿÿÿÿ
+upython:S117	"XRename this local variable "sellLot" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºşú¸şÿÿÿÿ
+rpython:S117”	"ZRename this local variable "sellTotal" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºÍñö
+vpython:S117Ò"YRename this local variable "stepSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿ¡‡Öûÿÿÿÿ
+}python:S117Ç"`Rename this local variable "stopChangeCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(çÇŸ’úÿÿÿÿ
+wpython:S117Â"ZRename this local variable "stopPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(áÙ™³şÿÿÿÿ
+qpython:S117Á"YRename this local variable "stopType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğËŸ¼
+wpython:S117Ê"ZRename this local variable "symbolRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(­©€Éùÿÿÿÿ
+qpython:S117Ñ"YRename this local variable "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾°Î
+upython:S117„	"]Rename this local variable "tickerStatus" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÖûò
+Epython:S1481Ñ",Remove the unused local variable "tickSize".(¾°Î
+Cpython:S1481Ô"*Remove the unused local variable "minLot".(£óº
+Fpython:S1481Ä"(Remove the unused local variable "expl".(ÍıªÎúÿÿÿÿ
+Opython:S1481¼"1Remove the unused local variable "buyPeriodTime".( ÂÂÿÿÿÿÿ
+Hpython:S1481Ó"/Remove the unused local variable "minNotional".(î˜—
+Qpython:S1481Ç"3Remove the unused local variable "stopChangeCount".(çÇŸ’úÿÿÿÿ
+Mpython:S1481ò"4Remove the unused local variable "candlePeriodTime".(åİÑ¨
+Epython:S1481Á",Remove the unused local variable "stopType".(ğËŸ¼
+Spython:S1481»"5Remove the unused local variable "currentPeriodTime".(ø¹»àşÿÿÿÿ
+Jpython:S1481Ò",Remove the unused local variable "stepSize".(ÿ¡‡Öûÿÿÿÿ
+mpython:S3776§"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(½À¹Ö
+cpython:S3457¨"EAdd replacement fields or use a normal string instead of an f-string.(©Ê…ğıÿÿÿÿ
+<python:S125÷"Remove this commented out code.(¾­œùÿÿÿÿ
+Rpython:S1135Š	"4Complete the task associated to this "TODO" comment.(Ğû¬Œüÿÿÿÿ
+<python:S125Œ	"Remove this commented out code.(²Üï”úÿÿÿÿ
+]python:S3457	"EAdd replacement fields or use a normal string instead of an f-string.(ÿ¹ó`
+{python:S117Ñ	"^Rename this local variable "binanceConfig" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷àĞüÿÿÿÿ
+xpython:S117ã	"[Rename this local variable "candleBars" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ãªş˜ÿÿÿÿÿ
+spython:S117Õ	"[Rename this local variable "coinSymbol" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿË›–
+xpython:S117ø	"[Rename this local variable "coinTicker" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºú‰ıÿÿÿÿ
+opython:S117Ê	"WRename this parameter "connSession" to match the regular expression ^[_a-z][a-z0-9_]*$.(§Ü¥¨
+qpython:S117Ï	"YRename this local variable "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÓŸÆÂ
+opython:S117ß	"WRename this local variable "minLot" to match the regular expression ^[_a-z][a-z0-9_]*$.(£óº
+tpython:S117Ş	"\Rename this local variable "minNotional" to match the regular expression ^[_a-z][a-z0-9_]*$.(î˜—
+vpython:S117İ	"YRename this local variable "stepSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿ¡‡Öûÿÿÿÿ
+wpython:S117Ø	"ZRename this local variable "symbolRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(­©€Éùÿÿÿÿ
+qpython:S117Ö	"YRename this local variable "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ßƒÕ¶
+Lpython:S1481Ó	"3Remove the unused local variable "url_book_ticker".(µ•ò
+Hpython:S1481Ş	"/Remove the unused local variable "minNotional".(î˜—
+Cpython:S1481ß	"*Remove the unused local variable "minLot".(£óº
+Jpython:S1481İ	",Remove the unused local variable "stepSize".(ÿ¡‡Öûÿÿÿÿ
+^python:S3457Ë	"EAdd replacement fields or use a normal string instead of an f-string.(ÒÜÆ
+tpython:S117€
+"WRename this parameter "connSession" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÛÅºùÿÿÿÿ
+qpython:S117„
+"YRename this local variable "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÓŸÆÂ
+^python:S3457
+"EAdd replacement fields or use a normal string instead of an f-string.(¹Êâ
+upython:S117Š
+"XRename this local variable "topFark" to match the regular expression ^[_a-z][a-z0-9_]*$.(š‰‘”üÿÿÿÿ
+opython:S117ˆ
+"WRename this local variable "topKar" to match the regular expression ^[_a-z][a-z0-9_]*$.( şÍç
+vpython:S117‰
+"YRename this local variable "topZarar" to match the regular expression ^[_a-z][a-z0-9_]*$.(©»§üÿÿÿÿ
+=python:S1481˜
+"%Remove the unused local variable "r".(Â¥ú
+tpython:S117ª
+"\Rename this local variable "connSession" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÈÒëû

@@ -1,0 +1,24 @@
+
+ppython:S117O"YRename this local variable "askPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ã›âĞ
+mpython:S117P"WRename this local variable "askQty" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÒœüU
+ppython:S117M"YRename this local variable "bidPrice" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÖÏÀ
+spython:S117N"WRename this local variable "bidQty" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹Õ¨ıÿÿÿÿ
+zpython:S117"^Rename this local variable "binanceConfig" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷àĞüÿÿÿÿ
+rpython:S117="[Rename this local variable "coinSymbol" to match the regular expression ^[_a-z][a-z0-9_]*$.(åªÔµ
+ppython:S117"YRename this local variable "dbCursor" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÓŸÆÂ
+spython:S117W"\Rename this local variable "islemTutari" to match the regular expression ^[_a-z][a-z0-9_]*$.(´²µ
+spython:S117A"WRename this local variable "minLot" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÈêİşÿÿÿÿ
+spython:S117@"\Rename this local variable "minNotional" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆË±ä
+ppython:S117?"YRename this local variable "stepSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûå·”
+upython:S1174"YRename this local variable "symbolId" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ’Õ€ùÿÿÿÿ
+vpython:S1177"ZRename this local variable "symbolRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(úĞ™Äüÿÿÿÿ
+upython:S117>"YRename this local variable "tickSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(İ‡‡íÿÿÿÿÿ
+qpython:S117L"ZRename this local variable "tickerRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(…û¥û
+rpython:S117G"[Rename this local variable "tickerRows" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñ¦¸ƒ
+Ipython:S1481>",Remove the unused local variable "tickSize".(İ‡‡íÿÿÿÿÿ
+Fpython:S1481=".Remove the unused local variable "coinSymbol".(åªÔµ
+Gpython:S1481N"*Remove the unused local variable "bidQty".(‹Õ¨ıÿÿÿÿ
+kpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(œŸ²_
+;python:S125&"Remove this commented out code.(˜—ú¨ıÿÿÿÿ
+5python:S125e"Remove this commented out code.(ÎÿØ8
+6python:S125k"Remove this commented out code.(š”¢Ú
